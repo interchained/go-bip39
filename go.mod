@@ -1,4 +1,4 @@
-module github.com/cosmos/go-bip39
+module github.com/interchained/go-bip39
 
 go 1.15
 
